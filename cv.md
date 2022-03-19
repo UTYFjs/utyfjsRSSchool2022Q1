@@ -23,20 +23,8 @@ __My Skills:__
 - AutoCAD
 
 __Code Example__
-```
-    <div class="first-class">
-        <p>
-            <ul> <b>My skills:</b>
-                <li>HTML</a></li>
-                <li>CSS</li>
-                <li>Git GitHub</li>
-                <li>Adobe Premier</li>
-                <li>Adobe Photoshop</li>
-			<li>AutoCAD</li>
-            </ul>
-        </p>
-    </div>
-```
+```some code```
+
 __Work Experience:__
 Nothing yet...
 __Education__
