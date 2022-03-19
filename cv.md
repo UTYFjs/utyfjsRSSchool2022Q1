@@ -27,8 +27,10 @@ __Code Example__
 
 __Work Experience:__
 Nothing yet...
+
 __Education__
 Belorussian State University - engineer geologist
+
 __Languages:__
 Russian - native
 English - A2
