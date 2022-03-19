@@ -23,7 +23,14 @@ __My Skills:__
 - AutoCAD
 
 __Code Example__
-```some code```
+``` 
+.border-div {
+    padding: 0 10;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+```
 
 __Work Experience:__
 Nothing yet...
