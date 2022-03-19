@@ -5,6 +5,7 @@ __Contacts:__
 * +995595909226
 * Discord: UTYFjs #7716
 * <belarus1990@gmail.com>
+
 __About me__ 
 I graduated from Belarusian State University in 2012. My specialty is geologist engineer. From 2012 to 2019, I worked as a geologist. My job was to study the reliability of soils for the construction of buildings.
 I have been a freelancer since 2019. I have a small YouTube channel.
