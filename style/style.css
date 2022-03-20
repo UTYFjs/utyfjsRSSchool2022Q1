@@ -1,0 +1,11 @@
+body {
+box-sizing: border-box;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 1024px;
+background-color: rgb(248, 240, 229);
+align-content: center;
+
+}
+.mainText {
+    font-size: 16px;
+}
