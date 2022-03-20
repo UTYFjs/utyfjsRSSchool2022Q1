@@ -1,1 +1,1 @@
-https://utyfjs.github.io/utyfjsRSSchool2022Q1/cv
+https://utyfjs.github.io/utyfjsRSSchool2022Q1/
